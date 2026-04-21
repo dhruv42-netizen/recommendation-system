@@ -12,7 +12,7 @@
 |---|---|
 | **Project Name** | recommendation-system |
 | **Tech Stack** | Node.js, Express, Cosine Similarity Algorithm |
-| **Repository URL** | `https://github.com/<your-username>/recommendation-system` |
+| **Repository URL** | `https://github.com/<dhruv42-netizen>/recommendation-system` |
 | **Default Branch** | `main` |
 | **Visibility** | Private |
 
